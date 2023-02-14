@@ -1,0 +1,12 @@
+.listatarj{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+
+@media screen and (max-width: 400px) {
+    .listatarj{
+        display: inline-block;
+    }
+}

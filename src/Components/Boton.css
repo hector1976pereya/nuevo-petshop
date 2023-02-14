@@ -1,0 +1,9 @@
+.btn{
+    background-color: #EB6440;
+    font-size: 1rem;
+    font-style: bold;
+    font-family: Monserrat;
+    color: white;
+    padding: 5px 20px;
+    border-radius: 8px;
+}
